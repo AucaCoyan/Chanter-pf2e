@@ -6,7 +6,7 @@ Chanter
 )
 head (
 # Chanter((Title))
-This is a homebrew class from Pillars of Eternity Game. This is an example of how to use this tool. Imagine that this description is capturing your imagination and bringing you into a world of wonder and excitement. Isn't this great? Look at how fancy this font looks in italics.
+They are storytellers and repositories of ancient lore from myriad cultural traditions. While they have some minor talent in traditional arts of combat and soul-based magic, their true power lies in their chants and invocations. This is a homebrew class from Pillars of Eternity Game. It will work as a spontaneous spellcaster (kinda, not really)
 -
 )
 
@@ -136,60 +136,215 @@ Your level | Class Features
 
 
 
-# Info ((+Info))
+# Class Features ((+Class Features))
 
-This tool allows you to make fancy looking content.
+You gain these abilities as a Chanter. Abilities gained at higher levels list the requisite levels next to the features’ names.
 
-## Editor ((+Editor))
+## Ancestry and Background ((+Ancestry and Background))
 
 Use the editor on the left side of the screen to create text on the right side of the screen.
 
-### Markdown ((++Markdown))
+## Initial Proficiencies ((++Initial Proficiencies))
 
 The editor makes use of **markdown** for a lot of the formatting. A *basic guide* is provided in the help window. Use the menu on the top left to find it.
 
-### Account ((++Account))
+### Occult Spellcasting ((++Occult Spellcasting))
 
 You can login using a number of different services. Logging in is handled by the external **auth0** service, and this application does not keep a record of your information. The application uses an unique id from your login to store your data, and that's it.
 
-### Sharing ((++Sharing))
+### Blabla ((++Blabla))
 
 You can share data that you create while logged in. Make sure that sharing is enabled on the document and then the link should allow anyone to view the data, but only the author can make edits and save changes.
 
-### Printing ((++Printing))
+### Blabla ((++Blabla))
 
 Select Print in the top left menu for the best result. To save as a PDF set **Save as PDF** as the Destination, set the Margins to **None**, and enable **Background graphics** in the Options.
 
-### Compatability ((++Compatability))
+### Blabla ((++Blabla))
 
 For the best results use the **Chrome** web browser, or a browser that uses Chromium as a base such as **Vivaldi**. Other browsers may experience issues printing or rendering.
 
 |
 
-# Updates ((+Updates))
-Sometimes this application will be updated by the developer. In such cases it's important to read the following text to understand what has changed. The fates are ever shifting.
+## Chanter Feat (2nd) ((+Updates))
+At 2nd level and every 2 levels thereafter, you gain a chanter class feat.
 
-## Known Issues ((++Known Issues))
-* Report issues to hi@pf2.tools
-* Export to PDF has been removed.
-* To save a PDF, print the document and set the **destination** to **Save as PDF**.
+## Skill Feat (2nd) ((+Updates))
+At 2nd level and every 2 levels thereafter, you gain a skill feat. Skill feats can be found in Chapter 5 of the CRB and have the skill trait. You must be trained or better in the corresponding skill to select a skill feat.
+
+## General Feats (3rd) ((+Updates))
+At 3rd level and every 4 levels thereafter, you gain a general feat. General feats are listed in Chapter 5.
+
+## Lightning Reflexes (3rd) ((+Lighning Reflexes))
+Your reflexes are lightning fast. Your proficiency rank in Reflex saves increases to expert.
+
+## Signature Spells (3rd)
+Experience allows you to cast some spells more flexibly.
+
+## Skill increases (3rd)
+At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase either to increase your proficiency rank to trained in one skill you’re untrained in, or to increase your proficiency rank in one skill in which you’re already trained to expert.
+At 7th level, you can use skill increases to increase your proficiency rank to master in a skill in which you’re already an expert, and at 15th level, you can use them to increase your proficiency rank to legendary in a skill in which you’re already a master.
+
+## Ability Boosts (5th) ((Ability Boosts))
+At 5th level and every 5 levels thereafter, you boost four different ability scores. You can use these ability boosts to increase your ability scores above 18. Boosting an ability score increases it by 1 if it’s already 18 or above, or by 2 if it starts out below 18.
+
+## Ancestry Feats (5th) ((Ancestry Feats))
+In addition to the ancestry feat you started with, you gain an ancestry feat at 5th level and every 4 levels thereafter. The list of feats is in your ancestry’s entry in Chapter 2. 
+
+## Expert Spellcaster (7th) ((Expert Spellcaster))
+Your proficiency ranks for occult spell attack rolls and spell DCs increase to expert.
+
+# Chanter Feats
+
+#### 1st Level ((+Feat Section))
+
+item(
+# Something Cool :a: ((+Feats))
+## Feat 3
+-
+; uncommon,class,feat,trait
+**Usage** Typed into the editor window.
+-
+This feat allows you to type text into the editor and have it appear here. When starting a line with bold text make sure to put two line breaks between so the hanging indent functions properly.
+
+**Critical Success** You are the best.
+
+**Success** You are pretty good.
+
+**Failure** At least you tried.
+
+**Critical Failure** Even though your body and spirit are broken, you will heal with time.
+)
+
+#### 20th Level
+
+item(
+# Look out behind you :r:
+## Feat 6
+-
+; rare,class,feat,trait
+**Usage** Typed into the editor window.
+
+**Trigger** You spaced things properly in the item window for the formatting to work.
+-
+You can put action symbols into here. Look here is a single action :a: wow. And then here's :aa: two actions. Now look out because we're going to :aaa: three actions. How about a :r: reaction? That is a :f: free action!
+
+**Special** This feat is very special. It is so special that it needs some text that says special at the end of it.
+)
+
+=
+
+left (
+# Chanter Feats ((+Left Sidebar))
+If you need to look up a bard feat by name instead of by level, use this table.
+
+##### Table 1-1: Chanter advancement ((+Tables))
+Feat | Level
+--- | :---:
+Allegro | 14
+Allegro | 11
+Allegro | 14
+Allegro | 12
+Allegro | 14
+Allegro | 1
+Allegro | 14
+Allegro | 3
+Allegro | 14
+Allegro | 14
+Allegro | 14
+Allegro | 2
+
+
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+)
+
+item(
+
+# Something Cool :a: ((+Feats))
+## Feat 3
+-
+; uncommon,class,feat,trait
+**Usage** Typed into the editor window.
+-
+This feat allows you to type text into the editor and have it appear here. When starting a line with bold text make sure to put two line breaks between so the hanging indent functions properly.
+
+**Critical Success** You are the best.
+
+**Success** You are pretty good.
+
+**Failure** At least you tried.
+
+**Critical Failure** Even though your body and spirit are broken, you will heal with time.
+
+
+# Something Cool :a: ((+Feats))
+## Feat 3
+-
+; uncommon,class,feat,trait
+**Usage** Typed into the editor window.
+-
+This feat allows you to type text into the editor and have it appear here. When starting a line with bold text make sure to put two line breaks between so the hanging indent functions properly.
+
+**Critical Success** You are the best.
+
+**Success** You are pretty good.
+
+**Failure** At least you tried.
+
+**Critical Failure** Even though your body and spirit are broken, you will heal with time.
+
+
+# Something Cool :a: ((+Feats))
+## Feat 3
+-
+; uncommon,class,feat,trait
+**Usage** Typed into the editor window.
+-
+This feat allows you to type text into the editor and have it appear here. When starting a line with bold text make sure to put two line breaks between so the hanging indent functions properly.
+
+**Critical Success** You are the best.
+
+**Success** You are pretty good.
+
+**Failure** At least you tried.
+
+**Critical Failure** Even though your body and spirit are broken, you will heal with time.
+
+
+# Something Cool :a: ((+Feats))
+## Feat 3
+-
+; uncommon,class,feat,trait
+**Usage** Typed into the editor window.
+-
+This feat allows you to type text into the editor and have it appear here. When starting a line with bold text make sure to put two line breaks between so the hanging indent functions properly.
+
+**Critical Success** You are the best.
+
+**Success** You are pretty good.
+
+**Failure** At least you tried.
+
+**Critical Failure** Even though your body and spirit are broken, you will heal with time.
+
+
+)
+=
 
 ## Version History ((++Version History))
-**Version 2.4** (*2021 / 02 / 14*)
-* Fixed css print styles
-* Screen now uses pt font size
-* Page number positions fixed
-
-**Version 2.4** (*2021 / 01 / 17*)
-* Page numbers now optional
-* Fixed some css issues
-* Fixed minor issue with new pages
-
-**Version 2.3**
-* Added more formatting options
-* Added google font import support
-* Added paragraph indenting styling
-* Added sticky notes
 
 **Version 2.2**
 * Removed the direct PDF export option.
@@ -198,16 +353,6 @@ Sometimes this application will be updated by the developer. In such cases it's 
 * Print styles now more accurately match screen.
 * Fixed bug which created intermittent server issues.
 
-
-
-
-=
-
-head(
-## Formatting ((Formatting))
-There are a lot of ways to format your text. All of the different ways to use fancy formatting can be accessed in the menu with the pencil icon.
--
-)
 
 It's tough to write a lot of text when I don't really have anything to write about, but it's all for a good cause.
 
