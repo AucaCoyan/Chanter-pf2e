@@ -1,5 +1,5 @@
 watermark (
-Chanter class from [AucaCoyan's Github](https://github.com/AucaCoyan/Chanter-pf2e)
+Chanter version 0.1 Release 2021-07-17
 )
 title (
 Chanter
@@ -24,20 +24,19 @@ Expert in Will.
 
 # Skills
 Trained in Performance
-Trained in a number of additional skils equal to 4 plus your Intelligence modifier
+Trained in a number of additional skils equal to 3 plus your Intelligence modifier
 
 # Attacks
 Trained in simple weapons
-Trained in longsword, rapier, sap, shortbow, shortsword and whip
 Trained in unarmed weapons
 
 # Defenses
-Trained in light armor
+Untrained in all armor
 Trained in unarmored defense
 
 # Spells
-Trained in occult spell attacks
-Trained in occult spell DCs
+Trained in spell attacks rolls of your spellrepertiore, determined in your first level
+Trained in spell DCs of your spellrepertiore, determined in your first levelTrained in occult spell DCs
 
 
 
@@ -71,7 +70,7 @@ At 1st level, your class gives you an ability boost to Constitution.
 
 ## Hitpoints
 
-**8 plus your Constitution modifier**
+**6 plus your Constitution modifier**
 You increase your maximum number of HP by this number at 1st level and every level thereafter.
 )
 ## During Combat Encounters
@@ -81,6 +80,7 @@ You use magical performances to alter the odds in favor of your allies. You conf
 ## During social encounters...
 
 You persuade, prevaricate, and threaten with ease.
+
 
 ## While exploring...
 
@@ -101,38 +101,73 @@ Have a passion for your art so strong that you forge a spiritual connection with
 
 ## Others Probably...
 
-* Relish the opportunity to invite you to social events, either as a performer or a guest, but consider you to be something of a curiosity in their social circles.
+* Think you are repositories of folk knowledge and common wisdom
 * Underestimate you compared to other spellcasters, believing you are little more than a foppish minstrel and overlooking the subtle power of your magic.
 * Respond favorably to your social charm and abilities, but remain suspicious of your beguiling magic.
 
 =
+head(
+### Helpful table to visualize the advancement
+Just a help
+-
+)
+##### Table 1-1: Chanter advancement ((+Tables))
+Your level | Ancestry feat | Class Feat | General Feat | Skill feat | Skill Increase | Ability Boost | Extra
+--- | :---:
+1  | x |   |   |   |   |   | Ancestry and background, initial proficiencies, spellcasting, spell repertoire, **some feats**
+2  |   | x |   | x |   |   | 
+3  |   |   | x |   | x |   | 
+4  |   | x |   | x |   |   | 
+5  | x |   |   |   | x | x | 
+6  |   | x |   | x |   |   | Steady spellcasting
+7  |   |   | x |   | x |   | Expert in Class DC
+8  |   | x |   | x |   |   | 
+9  | x |   |   |   | x |   | Expert in Fortitude Saves and Reflex Saves
+10 |   | x |   | x |   | x | 
+11 |   |   | x |   | x |   | Expert in Perception, Expert in Weapons proficiencies
+12 |   | x |   | x |   |   | 
+13 | x |   |   |   | x |   | Weapon Specialization, Expert in Armor proficiencies
+14 |   | x |   | x |   |   | 
+15 |   |   | x |   | x | x | Master in Class DC
+16 |   | x |   | x |   |   | 
+17 | x |   |   |   | x |   | Master in Will Saves
+18 |   | x |   | x |   |   | 
+19 |   |   | x |   | x |   | Legendary in Class DC
+20 |   | x |   | x |   | x | 
+ 
+=
 
 /
 /
-
+head(
+### Class features
+All at once
+-
+)
+/
 ##### Table 1-1: Chanter advancement ((+Tables))
 Your level | Class Features
 --- | :---:
-1 | Ancestry and background, initial proficiencies, occult spellcasting, spell repertoire, **some feats**
+1 | Ancestry and background, initial proficiencies, spellcasting, spell repertoire, **some feats**
 2 | Chanter feat, skill feat
 3 | 2nd-level spells, general feat, **some class feat**, signature spells, skill increase
 4 | Chanter feat, skill feat
 5 | 3rd-level spells, ability boosts, ancestry feat, skill increase
 6 | Chanter feat, skill feat
-7 | 4th-level spells, ancestry feat, skill increase
+7 | 4th-level spells, skill increase, general feat,
 8 | Chanter feat, skill feat
 9 | 5th-level spells, **some class feat** ancestry feat, skill increase
-10 | Chanter feat, skill feat
-11 | +1
+10 | Chanter feat, skill feat, ability boosts
+11 | , skill increase, general feat
 12 | Chanter feat, skill feat
-13 | +1
+13 | ancestry feat, skill increase
 14 | Chanter feat, skill feat
-15 | 8th-level, ability boosts,
+15 | 8th-level, ability boosts, skill increase, general feat
 16 | Chanter feat, skill feat
-17 | +1
+17 | ancestry feat, skill increase
 18 | Chanter feat, skill feat
-19 | +1
-20 | Ability boosts, chanter feat, skill feat
+19 | skill increase, general feat
+20 | Ability boosts, chanter feat, skill feat, Chanter feat,
 
 
 
@@ -168,80 +203,76 @@ For the best results use the **Chrome** web browser, or a browser that uses Chro
 
 |
 
-## Chanter Feat (2nd) ((+Updates))
+## Chanter Feat 2nd
 At 2nd level and every 2 levels thereafter, you gain a chanter class feat.
 
-## Skill Feat (2nd) ((+Updates))
+## Skill Feat 2nd
 At 2nd level and every 2 levels thereafter, you gain a skill feat. Skill feats can be found in Chapter 5 of the CRB and have the skill trait. You must be trained or better in the corresponding skill to select a skill feat.
 
-## General Feats (3rd) ((+Updates))
+## General Feats 3rd
 At 3rd level and every 4 levels thereafter, you gain a general feat. General feats are listed in Chapter 5.
 
-## Lightning Reflexes (3rd) ((+Lighning Reflexes))
+## Lightning Reflexes 3rd
 Your reflexes are lightning fast. Your proficiency rank in Reflex saves increases to expert.
 
-## Signature Spells (3rd)
+## Signature Spells 3rd
 Experience allows you to cast some spells more flexibly.
 
-## Skill increases (3rd)
+## Skill increases 3rd
 At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase either to increase your proficiency rank to trained in one skill you’re untrained in, or to increase your proficiency rank in one skill in which you’re already trained to expert.
 At 7th level, you can use skill increases to increase your proficiency rank to master in a skill in which you’re already an expert, and at 15th level, you can use them to increase your proficiency rank to legendary in a skill in which you’re already a master.
 
-## Ability Boosts (5th) ((Ability Boosts))
+## Ability Boosts 5th
 At 5th level and every 5 levels thereafter, you boost four different ability scores. You can use these ability boosts to increase your ability scores above 18. Boosting an ability score increases it by 1 if it’s already 18 or above, or by 2 if it starts out below 18.
 
-## Ancestry Feats (5th) ((Ancestry Feats))
+## Ancestry Feats 5th
 In addition to the ancestry feat you started with, you gain an ancestry feat at 5th level and every 4 levels thereafter. The list of feats is in your ancestry’s entry in Chapter 2. 
 
-## Expert Spellcaster (7th) ((Expert Spellcaster))
+## Expert Spellcaster 7th
 Your proficiency ranks for occult spell attack rolls and spell DCs increase to expert.
 
-## Upgrade fortitude save (9th)
+## Upgrade fortitude save 9th
 Your proficiency ranks for Reflex saves increases to expert.
 
-## Perception upgrade (11th)
+## Perception upgrade 11th
 Your proficiency rank increases to expert.
 
-## Weapons expertise (11th)
+## Weapons expertise 11th
 Your proficiency ranks for simple weapons and unarmed attacks increase to expert.
 
-## Weapon specilization (13th)
+## Weapon specilization 13th
 You deal 2 additional damage with weapons and unarmed attacks in which you are an expert. This damage increases to 3 if you’re a master and 4 if you’re legendary.
 
-## Armor expertise (13th)
+## Overtone singing
+You can perform 2 chants at the same time. Using 2 actions instead of 4 actions
+
+## Armor expertise 13th
 Your proficiency in unarmored defense increases to expert.
 
-## Master chanter (15th)
+## Master chanter 15th
 Your proficiency for spell attacks and spell DCs for your chanter spellcasting increases to master.
 
-## Feat (17th)
+## Feat 17th
 Your will save increase to master. When you roll a success on a Will save, you get a critical success instead.
 
-## Great chanter (19th)
+## Great chanter 19th
 Your proficiency ranks for spell attacks and spell DCs for your chanter spellcasting increase to legendary.
 
-## Class feature (19th)
+## Class feature 19th
+
+=
+head(
+### Chanter Feats
+These are pretty defined feats. Close to release data.
+-
+)
 
 # Chanter Feats
 
 #### 1st Level ((+1st Level feats))
 
 item(
-# Something Cool :a:
-## Feat 1
--
-; chanter,feat,trait
-**Usage** Typed into the editor window.
--
-This feat allows you to type text into the editor and have it appear here. When starting a line with bold text make sure to put two line breaks between so the hanging indent functions properly.
 
-**Critical Success** You are the best.
-
-**Success** You are pretty good.
-
-**Failure** At least you tried.
-
-**Critical Failure** Even though your body and spirit are broken, you will heal with time.
 # Reach Spell :a:
 ## Feat 1
 -
@@ -253,6 +284,7 @@ You can extend your spells’ range. If the next action you use is to Cast a Spe
 #### 2nd Level ((+2nd Level feats))
 #### 4th Level ((+4th Level feats))
 #### 6th Level ((+6th Level feats))
+|
 #### 8th Level ((+8th Level feats))
 #### 10th Level ((+10th Level feats))
 item(
@@ -268,67 +300,14 @@ If your next action is to cast a chanter cantrip or a chanter spell that is at l
 #### 12th Level ((+12th Level feats))
 #### 14th Level ((+14th Level feats))
 
-=
-
-##### Table 1-1: Chanter advancement ((+Tables))
-Your level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th
---- | :--: |
-1  | 5 | 2 | - | - | - | - | - | - | - | - | - |
-2  | 5 | 3 | - | - | - | - | - | - | - | - | - |
-3  | 5 | 3 | 2 | - | - | - | - | - | - | - | - |
-4  | 5 | 3 | 3 | - | - | - | - | - | - | - | - |
-5  | 5 | 3 | 3 | 2 | - | - | - | - | - | - | - |
-6  | 5 | 3 | 3 | 3 | - | - | - | - | - | - | - |
-7  | 5 | 3 | 3 | 3 | 2 | - | - | - | - | - | - |
-8  | 5 | 3 | 3 | 3 | 3 | - | - | - | - | - | - |
-9  | 5 | 3 | 3 | 3 | 3 | 2 | - | - | - | - | - |
-10 | 5 | 3 | 3 | 3 | 3 | 3 | - | - | - | - | - |
-11 | 5 | 3 | 3 | 3 | 3 | 3 | 2 | - | - | - | - |
-12 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | - | - | - | - |
-13 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | - | - | - |
-14 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | - | - | - |
-15 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | - | - |
-16 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | - | - |
-17 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | - |
-18 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | - |
-19 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1*|
-20 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1*|
-.* The chanter feat class feature gives you a 10th-level spell slot that works a bit differently from other spell slots.
-
-/
-
 #### 16th Level ((+16th Level feats))
-
-#### 18th Level ((+18th Level feats))
-
-#### 20th Level ((+20th Level feats))
-|
-item(
-# Look out behind you :r:
-## Feat 20
--
-; rare,class,feat,trait
-**Usage** Typed into the editor window.
-
-**Trigger** You spaced things properly in the item window for the formatting to work.
--
-You can put action symbols into here. Look here is a single action :a: wow. And then here's :aa: two actions. Now look out because we're going to :aaa: three actions. How about a :r: reaction? That is a :f: free action!
-
-**Special** This feat is very special. It is so special that it needs some text that says special at the end of it.
-)
-
-# Contributing
-You can send requests, suggestions or errata in [AucaCoyan's Github](https://github.com/AucaCoyan/Chanter-pf2e).
-
-
-
 =
 
 left (
 # Chanter Feats ((+Left Sidebar))
 If you need to look up a bard feat by name instead of by level, use this table.
 
-##### Table 1-1: Chanter advancement ((+Tables))
+##### Table 1-3: Chanter feats
 Feat | Level
 --- | :---:
 Allegro | 14
@@ -360,97 +339,370 @@ Allegro | 2
   
   
 )
+#### 18th Level ((+18th Level feats))
+
+#### 20th Level ((+20th Level feats))
 
 item(
 
-# Something Cool :a: ((+Feats))
-## Feat 3
+)
+
+=
+
+=
+head(
+### Development Feats
+These are some feats. Don't break them.
 -
-; uncommon,class,feat,trait
-**Usage** Typed into the editor window.
+)
+
+# Chanter Feats
+
+#### 1st Level ((+1st Level feats))
+
+item(
+
+# Crowd Control :aa:
+## Feat unknown lvl
 -
-This feat allows you to type text into the editor and have it appear here. When starting a line with bold text make sure to put two line breaks between so the hanging indent functions properly.
-
-**Critical Success** You are the best.
-
-**Success** You are pretty good.
-
-**Failure** At least you tried.
-
-**Critical Failure** Even though your body and spirit are broken, you will heal with time.
-
-
-# Something Cool :a: ((+Feats))
-## Feat 3
+**Trigger** 
 -
-; uncommon,class,feat,trait
-**Usage** Typed into the editor window.
+Your audience feel the need of response. Any enemy that hears you have to spend 1 action to sing along you. They are slowed 1 for the duration of your chant.
+
+
+# Visual lyrics
+## Feat high level
 -
-This feat allows you to type text into the editor and have it appear here. When starting a line with bold text make sure to put two line breaks between so the hanging indent functions properly.
+; chanter
 
-**Critical Success** You are the best.
+Your enemies can't evade your songs by tapping their ears. Your songs now aquire the visual tag, so non-hearing enemies now have to do a DC check to your songs.
 
-**Success** You are pretty good.
+)
 
-**Failure** At least you tried.
+|
 
-**Critical Failure** Even though your body and spirit are broken, you will heal with time.
+#### 2nd Level ((+2nd Level feats))
 
 
-# Something Cool :a: ((+Feats))
-## Feat 3
+item(
+# title
+)
+
+=
+
+##### Table 1-1: Chanter advancement ((+Tables))
+Your level | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th
+--- | :--: |
+1  | 5 | 2 | - | - | - | - | - | - | - | - | - |
+2  | 5 | 3 | - | - | - | - | - | - | - | - | - |
+3  | 5 | 3 | 2 | - | - | - | - | - | - | - | - |
+4  | 5 | 3 | 3 | - | - | - | - | - | - | - | - |
+5  | 5 | 3 | 3 | 2 | - | - | - | - | - | - | - |
+6  | 5 | 3 | 3 | 3 | - | - | - | - | - | - | - |
+7  | 5 | 3 | 3 | 3 | 2 | - | - | - | - | - | - |
+8  | 5 | 3 | 3 | 3 | 3 | - | - | - | - | - | - |
+9  | 5 | 3 | 3 | 3 | 3 | 2 | - | - | - | - | - |
+10 | 5 | 3 | 3 | 3 | 3 | 3 | - | - | - | - | - |
+11 | 5 | 3 | 3 | 3 | 3 | 3 | 2 | - | - | - | - |
+12 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | - | - | - | - |
+13 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | - | - | - |
+14 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | - | - | - |
+15 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | - | - |
+16 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | - | - |
+17 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | - |
+18 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | - |
+19 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1*|
+20 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 1*|
+.* The chanter feat class feature gives you a 10th-level spell slot that works a bit differently from other spell slots.
+
+/
+
+# Column 1 of text
+This is some text
+
+
+|
+
+# Contributing
+You can send requests, suggestions or errata in [AucaCoyan's Github](https://github.com/AucaCoyan/Chanter-pf2e).
+
+=
+
+head(
+### Chanter focus spells
+Some things to sing on
 -
-; uncommon,class,feat,trait
-**Usage** Typed into the editor window.
+)
+
+item(
+# Hymn of healing
+## Focus 1
 -
-This feat allows you to type text into the editor and have it appear here. When starting a line with bold text make sure to put two line breaks between so the hanging indent functions properly.
-
-**Critical Success** You are the best.
-
-**Success** You are pretty good.
-
-**Failure** At least you tried.
-
-**Critical Failure** Even though your body and spirit are broken, you will heal with time.
-
-
-# Something Cool :a: ((+Feats))
-## Feat 3
+;uncommon, bard, composition, healing, necromancy, positive
+**Cast** :aa: verbal
+**Range** 30 feet; **Targets** you and 1 ally
+**Duration** sustained up to 4 rounds
 -
-; uncommon,class,feat,trait
-**Usage** Typed into the editor window.
+Your divine singing mends wounds and provides a temporary respite from harm. The target gains fast healing 2. When you Cast the Spell and each time you Sustain the Spell, the target gains 2 temporary Hit Points, which last for 1 round.
 -
-This feat allows you to type text into the editor and have it appear here. When starting a line with bold text make sure to put two line breaks between so the hanging indent functions properly.
+**Heightened (+1)** The fast healing and temporary Hit Points each increase by 2.
+)
+|
+item (
+# Shock rock
+## Focus 3
+-
+;Chanter
+**Tradition** Occult
+**Cast** :a: somatic, material
+Your opponent can't use reactions on this round.
 
-**Critical Success** You are the best.
+# Enhance one/Two/three
+## Focus low
+-
+;Chanter
+Gives your allies +1/+2/+4 circumstance bonus to attack rolls
 
-**Success** You are pretty good.
 
-**Failure** At least you tried.
+# Psalm of salvation
+## Focus low
+-
+;Chanter
+Give your allies +1 to Fortitude Saves
 
-**Critical Failure** Even though your body and spirit are broken, you will heal with time.
+# Hallelujah
+## Focus medium
+-
+;Chanter
+Give your allies +2 circumstance bonus to all saves
+
+# Endemon
+## Focus low
+-
+;Chanter
+Give your enemies -1 circumstance penalty to certain save
+
+# Bladesong
+## Focus low
+-
+;chanter
+**Cast** :aa: verbal
+**Duration** 3 rounds
+-
+Now the weapons of your allies are considered magical during the chant's duration
+
+# At the Sight of their Comrades, their Hearts Grew Bold
+## Focus mid
+-
+;Chanter
+Give your allies +1 circumstance bonus to Fortitude and Will Saves
+
+# Blessed Was Wengridh, Quickest of His Tribe
+## Focus mid
+-
+;chanter
+Gives your allies +5ft of movement and +1 to Reflex Saves
+
+# Come, Come Soft Winds of Death
+## Focus low
+-
+;chanter, necromancy
+Enemies take this affliction
+**Stage 1** take 2 hp
+**Stage 2** take 2 hp and -1 to attack rolls
+
+# Dull the Edge, Blunt the Point
+## Focus low
+-
+; chanter
+Your allies gain resistance to slashing and piercing damage against normal weapons.
+
+# Thick Grew Their Tongues, Stumbling O'er Words
+## Focus low
+-
+; chanter
+Your enemies have to concentrate harder on their things. They have a penalty of -2 circumstance on any concentrate action.
+
+
+# Lo, Their Endless Host, the Harbingers Doom
+## Focus mid
+-
+; chanter
+Your enemies are frightened 1
+
+# One Dozen Stood Against the Power of the Saint
+## Focus mid
+-
+; chanter
+Reduce any condition of frightened by 1. Any ally have a +1 effect to saves against fear or terror
+
+# Sure-Handed Ila Nocked Her Arrows with Speed
+## Focus mid
+-
+; chanter
+Ranged weapons now have +10 feet range and 1 less action to reload (minimum of 1 action)
+
+# The Fox from the Farmer Did Run and Leap
+## Focus mid
+**Cast** :r:
+**Trigger** An enemy is attacking an ally with a reaction
+-
+; chanter
+Your roll a d20 
+**Critical Sucess** the enemy miss the attack
+**Sucess** the enemy has -3 to the attack roll
+**Critical Failure** the enemy miss the attack
+
+# The Silver Knights' Shields Broke Both Arrow and Blade
+## Focus mid
+-
+; chanter
+Your allies have +1 AC
+
+# They Shielded Their Eyes 'Gainst the Fampyr's Gaze
+## Focus high
+-
+; chanter
+You sing so strong it's simply hard to silence you.
+
+# Mercy and Kindness Followed Where'er She Walked
+## Focus high
+-
+;chanter
+You recieve 1.5 any healing effect
+
+# With All Your Strength Slay the Beast
+## Focus high
+-
+; chanter
+Pick a moster type between a list [...] you and your allies have +2 circumstance to attack rolls, saves and damage against that type of monster
+
+)
+
+/
+
+head (
+## Invocations
+)
+
+item(
+
+# And Hel-Hyraf Crashed upon the Shield
+## Focus mid
+-
+;chanter, 3 chants
+Reduce the resistance of an enemy by 1.
+
+
+# But Reny Daret's Ghost, He Would not Rest
+## Focus mid
+-
+;chanter, 3 chants
+Calls beyond the Shroud and summons a phantom to fight for the party.
+
+# If their Bones Still Slept Under that Hill, None Can Say
+## Focus mid
+-
+;chanter, 3 chants
+Summons three skeletons to fight for the party. You invoke 3 skeleletons CR 0 or 1 to your fight
+
+# Not Felled by the Axe, Nor Broken by the Storm
+## Focus mid
+-
+;chanter, 3 chants
+Increases the Slash and Shock Damage Reductions for allies in the area of effect.
+|
+
+# The Thunder Rolled Like Waves on Black Seas
+## Focus mid
+-
+;chanter, 3 chants
+Creates a thunderous explosion that Stuns and shoves enemies in the area of effect.
+
+
+# At the Sound of His Voice, the Killers Froze Stiff
+## Focus mid
+-
+;chanter, 4 chants
+Paralizes the enemies in the AoE
+
+# Gernisc Slew the Beast, but Soon Faced Its Kin
+## Focus mid
+-
+;chanter, 4 chants
+Conjures three wurms into existence to fight for the party.
+
+
+# My Son, Do You See your Sisters Across the Moor?
+## Focus mid
+-
+;chanter, 4 chants
+Amasses stray soul fragments to form two Will'O'Wisps that fight for the party.
+
+# Reny Daret's Ghost Spake, "I'll Catch You, Ben Fidel"
+# Focus high
+-
+;chanter, 4 chants
+Causes enemies in the area of effect to be Terrified.
+
+# Shatter their Shackles, Cast off their Chains!
+# Focus high
+-
+;chanter, 4 chants
+Decreases the duration of and defends against Hobbled, Stuck, Paralyzed, and Petrified effects for allies in the area of effect.
+
+
+# The Lover Cried out to the Beloved, "I am Yours!"
+# Focus high
+-
+;chanter, 4 chants
+Stirs something deep inside enemies in the area of effect, Charming them.
+
+
+# Oh, But Knock Not on the Door of Urdel and Gurdel
+# Focus high
+-
+;chanter, 5 chants
+Summons two fearsome ogres to fight for the party for the duration.
+
+
+# The Bride Caught their Ruse and Set to Make them Pay
+# Focus high
+-
+;chanter, 5 chants
+Empowers allies in the area of effect with bonuses to Dexterity, Perception, and Intelligence.
+
+
+# The Brideman Slew Thirty 'Fore They Crossed Half the Hall
+# Focus high
+-
+;chanter, 5 chants
+Empowers allies in the area of effect with bonuses to Might, Constitution and Resolve.
+
+
+# Their Champion Braved The Horde Alone
+# Focus high
+-
+;chanter, 6 chants
+The chanter fills himself or herself with frantic energy, significantly increasing Attack Speed.
+
+# Boil Their Flesh From Skin to Bone
+# Focus high
+-
+;chanter, 7 chants
+This ghastly invocation causes victims' bodies and souls to rapidly dissolve, doing Raw damage to enemies caught in its path.
+
 
 
 )
+
 =
 
-## Version History ((++Version History))
 
-**Version 2.2**
-* Removed the direct PDF export option.
-* Instead, Print with destination set as **Save to PDF**.
-* Set the **Paper Size** to **A4**.
-* Print styles now more accurately match screen.
-* Fixed bug which created intermittent server issues.
-
-
-It's tough to write a lot of text when I don't really have anything to write about, but it's all for a good cause.
-
-info (
-## Columns ((+Columns))
-Often you'll want to use two columns in order to shape the text in a more compact way. This makes it easier to parse and less overwhelming to the reader.
-## Info Box ((+Info Box))
-This is an info box that has white text on a red background. Just thought I should let you know.
+head(
+### The class ends here
+From now on it's just some text to help formatting
+-
 )
 
 This is another plain paragraph that exists. That's right. This is a bunch of letters arranged into what are known as words.
@@ -462,26 +714,14 @@ Rules are very important and are a staple of any game. Always remember to includ
 
 Wow this text just keeps on going doesn't it. More help on using markdown can be found in the help button in the menu on the top left.
 
-## Content Header ((+Content Header))
-
-This is what the headers look like in just the normal content area.
-
-### Smaller Header ((+Smaller Header))
-
-This header is even smaller, but it is still trying its best and that should be enough.
-
-### Another Small One
-
-Even though they are small they are great in number which makes them just as intimidating as other headers.
-
-|
-
 note (
 # This is a fancy note. ((+Note Box))
 Sometimes when there is a bunch of text it's useful to put it into different areas around the page. Maybe someone doesn't need to read this right away but it would be useful to look at after they are finished reading other text. Or maybe they'll just read it first. Who knows!
 ## Secondary Header
 Be sure to check out what each header level has to offer in each context. There aren't styles for every header one through six, but there are usually a couple for each context.
 )
+
+|
 
 Well here we are again. This is some normal text that I want to type out in order to make this look more interesting. I think I'm really finding a good groove here. Writing this paragraph has been a lot easier than the ones before. You can tell by how long it's getting. The next box is usually used for math.
 
@@ -490,26 +730,6 @@ Pizza Modifier = modifier of the dough's key taste score + cheese bonus + other 
 )
 
 When finalizing the pizza modifier value it's important to remember that each topping will change the modifier based on the pizza topping table.
-
-##### Table 1-1: Pizza Modifiers ((+Tables))
-Pizza Topping | Modifier
---- | :---:
-Onion | +1
-Mushroom | +1
-Pepperoni | +2
-Sausage | +2
-Garlic | +3
-Pineapple | ?
-. * Pineapple is too divisive to have an assigned value.
-
-/
-
-# Column Break ((+Column Break))
-
-You can end a section of multiple columns with the forward slash character on its own line.
-
-
-|
 
 =
 
@@ -837,7 +1057,7 @@ For record keeping just in case.
 * PDF download page breaks fixed
 
 **Version 1.0**
-* First public version.
+* First public version.s
 /
 %
 
