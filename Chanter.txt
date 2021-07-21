@@ -21,7 +21,7 @@ item (
 ;archetype, dedication
 **Prerequisites** trained in Performance
 -
-You learn the art of tuning the voice. You are trained in X Skill and gain 2 focus points.
+You learn the art of tuning the voice. You become Expert in Performance skill and gain 2 focus points.
 
 **Special** You can’t select another dedication feat until you have gained two other feats from the chanter archetype.
 
