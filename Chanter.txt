@@ -16,12 +16,12 @@ They are storytellers and repositories of ancient lore from myriad cultural trad
 
 item (
 # Chanter dedication
-## Feat 2
+## Feat 4
 -
 ;archetype, dedication
 **Prerequisites** trained in Performance
 -
-You learn the art of tuning the voice. You become Expert in Performance skill and gain 2 focus points.
+You learn the art of tuning the voice. You become Expert in Performance skill and gain 2 focus points. 
 
 **Special** You can’t select another dedication feat until you have gained two other feats from the chanter archetype.
 
